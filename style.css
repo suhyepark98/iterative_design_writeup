@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, sans-serif;
     font-weight: 300;
-    background-color: #f7e7b3;
+    background-color: #cd8c5f;
 }
 
 /* #CD8C5F
@@ -136,3 +136,7 @@ img.divider{
 .row_wireframes {
     line-height: 0;
 }
+
+.sketch {
+    text-align: center;
+  }
